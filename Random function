@@ -1,6 +1,7 @@
 from random import *
 import os
 print("Welcome to the number guessing game")
+print("GET STRATED!")
 print("Follow the instruction please and do as directed timely")
 print("you will get score added by 5 if you got the right number")
 
